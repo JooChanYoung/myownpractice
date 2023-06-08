@@ -44,5 +44,7 @@ print('hello')
 안녕하세요
 ---
 git add .
-git commit -m "success"
+git commit -m "success" #m 뒤에는 아무 메시지나 타이핑해야함
 git push origin main
+이게 수정사항을 깃에 업로드하는 순서
+
