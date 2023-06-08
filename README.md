@@ -43,5 +43,6 @@ print('hello')
 ---
 안녕하세요
 ---
-print("hello)
-깃 어려운것인가..아닌가...
+git add .
+git commit -m "success"
+git push origin main
